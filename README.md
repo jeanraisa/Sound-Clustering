@@ -24,6 +24,7 @@ This project focuses on clustering unlabeled sound data. The goal is  to extract
 * Medical imaging (DBSCAN for irregular tumor detection, K-Means for structured tissue classification)
 * Customer segmentation (K-Means for structured groups, DBSCAN for outlier detection)
 
-5. **Conclusion**:
+# Conclusion
+
 This project highlights the importance of dimensionality reduction in improving clustering effectiveness and visualization. The choice of clustering method depends on data characteristics, making it crucial to test different approaches for optimal results
 
